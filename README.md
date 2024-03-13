@@ -1,4 +1,8 @@
 ## pengolahan_citra
+
+## youtube 
+
+https://youtu.be/XWBDipY1qro?si=V1CKw_3fKO_SsDVL
 ![image](https://github.com/muhamadabdulanas/Tugas-pengolahan_citra1/assets/115569493/c9973007-643c-427c-964f-9f6411871f10)
 
 ### penjelasan
